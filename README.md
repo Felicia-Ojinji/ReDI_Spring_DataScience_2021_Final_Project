@@ -9,4 +9,3 @@ Weather and solar energy data of the PV system from 01/01/2020 to 31/ 01/2020, h
 The training data set, made up of 8670 data points of weather and power output in hourly frequency have been divided into two parts in which 70% is allocated for training, 30%  for testing. The mean squared error (MSE), r-squared (R^2), have been  used to evaluate the performance of the models.
 
 
-![image](https://user-images.githubusercontent.com/66952636/122675920-f8f85780-d1db-11eb-917a-000da66c4a5d.png)
